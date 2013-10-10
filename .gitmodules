@@ -1,0 +1,3 @@
+[submodule "vicious"]
+        path = vicious
+        url = git://http://git.sysphere.org/vicious
